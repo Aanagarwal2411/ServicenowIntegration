@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Github App</name>
+        <order/>
+        <roles>x_877657_github_po.github_app_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 13:45:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9af40223935c2610819e31697bba1095</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Github App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Github_POC" source="x_877657_github_po">724ff16b931c2610819e31697bba10fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github_POC">724ff16b931c2610819e31697bba10fb</sys_scope>
+        <sys_update_name>sys_ui_application_9af40223935c2610819e31697bba1095</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 13:45:23</sys_updated_on>
+    </sys_ui_application>
+</record_update>
